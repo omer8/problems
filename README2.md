@@ -1,1 +1,0 @@
-# ICPC Cheet problems
